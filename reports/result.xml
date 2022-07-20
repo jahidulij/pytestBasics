@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+    <testsuite name="pytest" errors="0" failures="0" skipped="2" tests="5" time="0.127"
+               timestamp="2022-07-20T09:51:26.588215" hostname="PQA-0675LT">
+        <testcase classname="tests.test_compare" name="test_less" time="0.001"/>
+        <testcase classname="tests.test_compare" name="test_less_equal" time="0.000"/>
+        <testcase classname="tests.test_markers" name="test_equality" time="0.000"/>
+        <testcase classname="tests.test_xfail_skip" name="test_less" time="0.000">
+            <skipped type="pytest.skip" message="unconditional skip">
+                C:\Users\JahidulIslam\PycharmProjects\pytestTutorialPoints\tests\test_xfail_skip.py:16: unconditional
+                skip
+            </skipped>
+        </testcase>
+        <testcase classname="tests.test_xfail_skip" name="test_less_equal" time="0.000">
+            <skipped type="pytest.skip" message="unconditional skip">
+                C:\Users\JahidulIslam\PycharmProjects\pytestTutorialPoints\tests\test_xfail_skip.py:22: unconditional
+                skip
+            </skipped>
+        </testcase>
+    </testsuite>
+</testsuites>

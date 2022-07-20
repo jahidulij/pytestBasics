@@ -1,0 +1,10 @@
+2022-07-20 11:10:59: INFO: 100 is greater than provided number
+2022-07-20 11:10:59: INFO: 100 is equal to provided number
+2022-07-20 11:11:35: INFO: 100 is greater than provided number..
+2022-07-20 11:11:35: INFO: 100 is equal to provided number..
+2022-07-20 11:21:48: INFO: 100 is greater than provided number..
+2022-07-20 11:21:48: INFO: 100 is equal to provided number..
+INFO:tests.test_logger4:100 is greater than provided number..
+INFO:tests.test_logger4:100 is equal to provided number..
+2022-07-20 11:22:44: INFO: 100 is greater than provided number..
+2022-07-20 11:22:44: INFO: 100 is equal to provided number..
