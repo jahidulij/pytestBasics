@@ -1,3 +1,4 @@
+# Log:
 import logging
 
 logging.basicConfig(filename="C:/Users/JahidulIslam/PycharmProjects/pytestTutorialPoints/logs/test.log",

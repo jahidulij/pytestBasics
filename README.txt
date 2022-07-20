@@ -59,3 +59,8 @@
 # Test Execution Results in XML Format
     - Generate the details of the test execution in a xml file.
     - Command: pytest filename --junitxml="result.xml"
+
+# Log:
+    - basicConfig in conftest.py for generate log file
+    - setup in pytest.ini file for log in report
+

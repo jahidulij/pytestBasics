@@ -1,3 +1,4 @@
+# Log:
 import pytest
 import logging
 
@@ -9,7 +10,6 @@ logger.setLevel(logging.DEBUG)
 def test_greater():
     num = 100
     logger.info(f"{num} is greater than provided number")
-    # logger.log()
     assert num > 99.9999999999999
 
 
