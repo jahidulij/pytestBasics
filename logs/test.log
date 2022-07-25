@@ -8,3 +8,39 @@ INFO:tests.test_logger4:100 is greater than provided number..
 INFO:tests.test_logger4:100 is equal to provided number..
 2022-07-20 11:22:44: INFO: 100 is greater than provided number..
 2022-07-20 11:22:44: INFO: 100 is equal to provided number..
+2022-07-25 14:12:58: DEBUG: This is debug message
+2022-07-25 14:12:58: INFO: This is info message
+2022-07-25 14:12:58: WARNING: This is warning message
+2022-07-25 14:12:58: ERROR: This is error message
+2022-07-25 14:12:58: CRITICAL: This is critical message
+2022-07-25 14:12:58: DEBUG: This is debug message
+2022-07-25 14:12:58: INFO: This is info message
+2022-07-25 14:12:58: WARNING: This is warning message
+2022-07-25 14:12:58: ERROR: This is error message
+2022-07-25 14:12:58: CRITICAL: This is critical message
+2022-07-25 14:12:58: DEBUG: Starting new HTTPS connection (1): api.duckduckgo.com:443
+2022-07-25 14:12:58: DEBUG: https://api.duckduckgo.com:443 "GET /?q=python+programming&format=json HTTP/1.1" 200 None
+2022-07-25 14:15:01: DEBUG: This is debug message
+2022-07-25 14:15:01: INFO: This is info message
+2022-07-25 14:15:01: WARNING: This is warning message
+2022-07-25 14:15:01: ERROR: This is error message
+2022-07-25 14:15:01: CRITICAL: This is critical message
+2022-07-25 14:15:01: DEBUG: This is debug message
+2022-07-25 14:15:01: INFO: This is info message
+2022-07-25 14:15:01: WARNING: This is warning message
+2022-07-25 14:15:01: ERROR: This is error message
+2022-07-25 14:15:01: CRITICAL: This is critical message
+2022-07-25 14:15:01: DEBUG: Starting new HTTPS connection (1): api.duckduckgo.com:443
+2022-07-25 14:15:01: DEBUG: https://api.duckduckgo.com:443 "GET /?q=python+programming&format=json HTTP/1.1" 200 None
+2022-07-25 14:16:11: DEBUG: This is debug message
+2022-07-25 14:16:11: INFO: This is info message
+2022-07-25 14:16:11: WARNING: This is warning message
+2022-07-25 14:16:11: ERROR: This is error message
+2022-07-25 14:16:11: CRITICAL: This is critical message
+2022-07-25 14:16:11: DEBUG: This is debug message
+2022-07-25 14:16:11: INFO: This is info message
+2022-07-25 14:16:11: WARNING: This is warning message
+2022-07-25 14:16:11: ERROR: This is error message
+2022-07-25 14:16:11: CRITICAL: This is critical message
+2022-07-25 14:16:11: DEBUG: Starting new HTTPS connection (1): api.duckduckgo.com:443
+2022-07-25 14:16:11: DEBUG: https://api.duckduckgo.com:443 "GET /?q=python+programming&format=json HTTP/1.1" 200 None
