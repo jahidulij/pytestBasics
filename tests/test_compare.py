@@ -17,7 +17,7 @@ def test_greater_equal():
 @pytest.mark.others
 def test_less():
     num = 10
-    assert num < 10.000000000000011111
+    assert num < 10.000000000000011112
 
 
 @pytest.mark.others
